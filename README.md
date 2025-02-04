@@ -1,7 +1,3 @@
-
-<!--
-**itzmayank01/itzmayank01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm working on c++<br>I would like to contribute in Cloud related projects
 
