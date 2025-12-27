@@ -1,6 +1,63 @@
-# 💫 About Me:
-I'm working on c++<br>I would like to contribute in Cloud related projects
+👋 Hi, I’m Mayank Thakur
 
+🚀 Aspiring Cloud & DevOps Engineer | Python | AWS | Learning in Public
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Computer Science student passionate about **Cloud Computing and DevOps**.  
+Currently, I’m learning how to automate, monitor, and manage systems using **Python**, while building a strong foundation in **cloud-native tools**.
+
+I believe in **learning by doing**, which is why I actively work on hands-on tasks, real-world scripts, and open-source style workflows.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Programming:** Python, C++
+- **Cloud:** AWS (EC2, S3, IAM – learning & practicing)
+- **DevOps Basics:** Linux, Git, GitHub, Automation scripting
+- **Monitoring:** System health checks using Python (`psutil`)
+- **Tools:** VS Code, GitHub, CLI
+
+---
+
+## 📚 Currently Learning
+
+- Python for DevOps (Automation & Monitoring)
+- Git & GitHub (Professional workflows)
+- Cloud fundamentals and AWS services
+- Writing clean, reusable scripts
+
+---
+
+## 🤝 Open to Collaborate
+
+I’m interested in contributing to:
+- Cloud-related projects ☁️  
+- DevOps automation scripts ⚙️  
+- Beginner-friendly open-source repositories 🌱  
+
+If you have a project where I can **learn and contribute**, I’d love to connect!
+
+---
+
+## 🌱 Learning Philosophy
+
+> “Consistency beats intensity.”
+
+I share my learning journey openly to stay accountable and grow every day.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/itzmayank01
+
+---
+
+⭐ If you find my work useful, feel free to star my repositories!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mayank_thakur_656) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-thakur9181) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankthakur9182@gmail.com) 
