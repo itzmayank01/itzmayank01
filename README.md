@@ -1,4 +1,4 @@
-👋 Hi, I’m Mayank Thakur
+👋  ## Hi, I’m Mayank Thakur
 
 🚀 Aspiring Cloud & DevOps Engineer | AWS | Python | Learning in Public
 
