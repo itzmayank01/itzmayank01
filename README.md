@@ -1,7 +1,7 @@
 👋 Hi, I’m Mayank Thakur
 
 🚀 Aspiring Cloud & DevOps Engineer | AWS | Python | Learning in Public
-
+  
 👨‍💻 About Me 
  
 I’m a Computer Science Engineering student passionate about **Cloud Computing and DevOps**.  
