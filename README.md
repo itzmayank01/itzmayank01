@@ -2,7 +2,7 @@
 
 🚀 Aspiring Cloud & DevOps Engineer | AWS | Python | Learning in Public
   
-👨‍💻 About Me 
+👨‍💻 About Me   
  
 I’m a Computer Science Engineering student passionate about **Cloud Computing and DevOps**.  
 I enjoy building, automating, and monitoring systems while strengthening my fundamentals through **hands-on practice**.
