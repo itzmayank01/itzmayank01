@@ -75,7 +75,7 @@ If you have a project where I can **learn, contribute, and grow**, feel free to 
 
 - 💻 GitHub: https://github.com/itzmayank01  
 - 🔗 LinkedIn: https://linkedin.com/in/mayank-thakur9181  
-- 📧 Email: mailto:mayankthakur9182@gmail.com  
+- 📧 Email: mailto:mayankthakur9181@gmail.com  
 
 ---
 
