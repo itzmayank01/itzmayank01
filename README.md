@@ -1,6 +1,6 @@
 ## Hi, I’m Mayank Thakur
     
-## Cloud & DevOps | AWS | Python | Learning in Public
+## Cloud & DevOps | AWS | Python | Learning in Public  
   
 ## 👨‍💻 About Me   
  
