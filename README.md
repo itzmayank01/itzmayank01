@@ -1,6 +1,6 @@
 ## Hi, I’m Mayank Thakur
     
-## Cloud & DevOps | AWS | Python | Learning in Public     
+## Cloud & DevOps | AWS | Python | Learning in Public |     
 
 ## 🌐 Connect With Me
 
@@ -76,13 +76,6 @@ If you have a project where I can **learn, contribute, and grow**, feel free to 
 
 ---
 
-## 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/itzmayank01  
-- 🔗 LinkedIn: https://linkedin.com/in/mayank-thakur9181  
-- 📧 Email: mailto:mayankthakur9181@gmail.com  
-
----
 
 💡 *“Building reliable systems, one script and one deployment at a time.”*
 
