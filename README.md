@@ -5,7 +5,8 @@
 ## 🌐 Connect With Me
 
 - 💻 GitHub: https://github.com/itzmayank01  
-- 🔗 LinkedIn: https://linkedin.com/in/mayank-thakur9181  
+- 🔗<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/13fdbec0-a9ab-4784-a41c-8128f5fcaa02" />
+ LinkedIn: https://linkedin.com/in/mayank-thakur9181  
 - 📧 Email: mailto:mayankthakur9181@gmail.com  
     
 ## 👨‍💻 About Me   
