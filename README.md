@@ -6,7 +6,7 @@
 
 - 💻 GitHub: https://github.com/itzmayank01  
 - 🔗LinkedIn: https://linkedin.com/in/mayank-thakur9181  
-- 📧 Email: mailto:mayankthakur9181@gmail.com  
+- 📧 Email: mayankthakur9181@gmail.com  
     
 ## 👨‍💻 About Me   
  
