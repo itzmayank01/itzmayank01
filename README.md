@@ -2,7 +2,7 @@
     
 ## Cloud & DevOps | AWS | Python | Learning in Public |     
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me   
 
 - 💻 GitHub: https://github.com/itzmayank01  
 - 🔗LinkedIn: https://linkedin.com/in/mayank-thakur9181  
