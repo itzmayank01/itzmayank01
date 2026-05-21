@@ -4,7 +4,7 @@
         
 ## 🌐 Connect With Me      
                 
-- 💻 GitHub: https://github.com/itzmayank01      
+- 💻 GitHub: https://github.com/itzmayank01        
 - 🔗LinkedIn: https://linkedin.com/in/mayank-thakur9181      
 - 📧 Email: mayankthakur9181@gmail.com    
          
