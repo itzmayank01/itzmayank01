@@ -1,7 +1,7 @@
 ## Hi, I’m Mayank Thakur
     
 ## Cloud & DevOps | AWS | Python | Learning in Public |     
-<img width="600" height="349" alt="1785835496562" src="https://github.com/user-attachments/assets/ca1c9247-9c1a-49bd-aeda-63d193ced5fa" />
+<img width="1500" height="300" alt="1785835496562" src="https://github.com/user-attachments/assets/ca1c9247-9c1a-49bd-aeda-63d193ced5fa" />
 
 ## 🌐 Connect With Me      
                 
