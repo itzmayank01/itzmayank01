@@ -9,7 +9,7 @@
          
 ## 👨‍💻 About Me   
  
-I’m a Computer Science Engineering student  
+I’m a Computer Science Engineering student   
 I enjoy building, automating, and monitoring systems while strengthening my fundamentals through **hands-on practice** in **Cloud Computing and DevOps**.  
 I believe in **learning by doing**, contributing to projects, and sharing my journey publicly to stay consistent and accountable.
 
