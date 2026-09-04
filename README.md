@@ -33,40 +33,4 @@ I believe in **learning by doing**, contributing to projects, and sharing my jou
   <img src="https://skillicons.dev/icons?i=mySQL,prometheus,grafana" />
 </p>
 
----
-
-## 📚 Currently Learning
-
-- Python for DevOps & Automation
-- AWS Cloud Services (EC2, S3, IAM – hands-on)
-- Linux, Git & GitHub 
-- Monitoring & system health checks
-- Cloud-native & DevOps best practices
-
----
-
-## 📂 Projects & Practice
-
-- 🐍 Python automation scripts  
-- ⚙️ System monitoring using `psutil`  
-- ☁️ AWS hands-on labs & mini projects  
-- 📦 GitHub-based learning repositories  
-
-*(More projects coming as I build consistently 🚀)*
-
----   
-
-## 🤝 Open to Collaborate
-
-I’m interested in collaborating on:
-- DevOps & Cloud projects ☁️  
-- Python automation tools ⚙️  
-- Beginner-friendly open-source repositories 🌱  
-
-If you have a project where I can **learn, contribute, and grow**, feel free to connect.
-
----
-
-💡 *“Building reliable systems, one script and one deployment at a time.”*
-
 [![](https://visitcount.itsvg.in/api?id=itzmayank01&color=6)](https://visitcount.itsvg.in)
