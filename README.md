@@ -71,12 +71,12 @@ If you have a project where I can **learn, contribute, and grow**, feel free to 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itzmayank01&theme=github-dark&hide_border=true&area=true"
-    alt="Mayank Thakur's GitHub Activity Graph"
+  <img
+    src="https://ghchart.rshah.org/itzmayank01"
+    alt="Mayank Thakur's GitHub Contribution Graph"
+    width="100%"
   />
 </p>
----
 
 
 💡 *“Building reliable systems, one script and one deployment at a time.”*
