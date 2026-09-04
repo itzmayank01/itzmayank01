@@ -67,18 +67,6 @@ If you have a project where I can **learn, contribute, and grow**, feel free to 
 
 ---
 
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/itzmayank01"
-    alt="Mayank Thakur's GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
-
 💡 *“Building reliable systems, one script and one deployment at a time.”*
 
 [![](https://visitcount.itsvg.in/api?id=itzmayank01&color=6)](https://visitcount.itsvg.in)
