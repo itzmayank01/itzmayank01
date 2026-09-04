@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible" />
 </p>
 
-### 🗄️ Databases & Monitoring
+## 🗄️ Databases & Monitoring
 <p>
   <img src="https://skillicons.dev/icons?i=mySQL,prometheus,grafana" />
 </p>
