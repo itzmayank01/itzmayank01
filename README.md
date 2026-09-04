@@ -1,21 +1,11 @@
 ## Hi, I’m Mayank Thakur
-      
-## Cloud & DevOps | AWS | Python | Learning in Public |     
+  
 ## 🌐 Connect With Me  
-
 - 💻 Portfolio Website: [itzmayank01.github.io/Portfolio-Website/    ](https://itzmayank01.github.io/Portfolio-Website/)
 - 💻 GitHub: https://github.com/itzmayank01        
 - 🔗LinkedIn: https://linkedin.com/in/mayank-thakur9181      
 - 📧 Email: mayankthakur9181@gmail.com    
-         
-## 👨‍💻 About Me   
- 
-I’m a Computer Science Engineering student   
-I enjoy building, automating, and monitoring systems while strengthening my fundamentals through **hands-on practice** in **Cloud Computing and DevOps**.  
-I believe in **learning by doing**, contributing to projects, and sharing my journey publicly to stay consistent and accountable.
-
----
-   
+  
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
