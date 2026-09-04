@@ -19,8 +19,9 @@
 </p>
 
 ### 🗄️ Databases & Monitoring
-<p>
-  <img src="https://skillicons.dev/icons?i=mySQL,prometheus,grafana" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,prometheus,grafana&theme=dark" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=itzmayank01&color=6)](https://visitcount.itsvg.in)
