@@ -6,7 +6,7 @@
 - 🔗LinkedIn: https://linkedin.com/in/mayank-thakur9181      
 - 📧 Email: mayankthakur9181@gmail.com    
   
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### 👨‍💻 Languages & Frameworks
 <p>
